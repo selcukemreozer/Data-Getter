@@ -26,7 +26,7 @@ def linkFinder_smart(linksVar):
             link_name = link.text
             print("{} : {}".format(link_name, linkR))
         else:
-            pass"""
+            pass # :)"""
 
         linkList.append(linkR)
 
