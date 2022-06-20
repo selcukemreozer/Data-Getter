@@ -9,3 +9,7 @@ DATA GETTER is development stage yet. New features will be added soon.
 There is only links get at DATA GETTER.(no text, no photo etc.)
 
 DATA GETTER has no tutorial yet.
+
+DATA GETTER hasn't a interface.
+
+
